@@ -1,0 +1,4 @@
+business\SAReservationTest.class
+generatemocks\SAManagerForUnitTest.class
+business\SAFlightTest.class
+generatemocks\GenerateEntityForUnitTest.class
